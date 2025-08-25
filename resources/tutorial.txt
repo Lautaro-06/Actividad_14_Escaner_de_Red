@@ -1,0 +1,11 @@
+Network Scanner Pro Tutorial
+
+Importante:
+Abrir en cmd y escribir ipconfig para obtener su ip correspondiente.
+
+1. Ingresar la IP de inicio y fin del rango que quieras escanear.
+2. Configurar el timeout (tiempo de espera para cada ping).
+3. Presionar "Escanear" para comenzar.
+4. La barra inferior mostrará el progreso.
+5. Una vez terminado, podés guardar los resultados con "Guardar CSV".
+6. Limpiar la tabla con "Limpiar".
